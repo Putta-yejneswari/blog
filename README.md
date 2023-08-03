@@ -17,7 +17,7 @@ Diving and Nature views:
 
 ![picture 3](https://github.com/Putta-yejneswari/blog/assets/136833632/8ad0558a-f575-40d1-8052-6fea115a7101)
 
-picture 4
+![picture 4](https://github.com/Putta-yejneswari/blog/assets/136833632/f2593c98-6d30-4959-bba3-38509ee2ca00)
 
 News and Events:
 
