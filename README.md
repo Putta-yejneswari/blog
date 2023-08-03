@@ -25,7 +25,7 @@ News and Events:
 
 Contact Us:
 
-picture 6
+![picture 6](https://github.com/Putta-yejneswari/blog/assets/136833632/047c2aec-9f88-43cf-8e73-bb394da23c43)
 
 Check [video demo](https://drive.google.com/file/d/1GahJIbgC8l-LUhTPTiSrPDFNBUHlEaJu/view)Here
 
