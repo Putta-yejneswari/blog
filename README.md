@@ -2,7 +2,7 @@ Building a blog app:
 
 A Travel blog is a simple blog where the entire focus is on the world of travel. To see where blogging fits into the online marketing world, check out my Introduction to Digital Marketing post. Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.
 
-##implemntation
+##implementation
 
 Home:
 
