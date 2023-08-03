@@ -6,11 +6,12 @@ A Travel blog is a simple blog where the entire focus is on the world of travel.
 
 Home:
 
-picture1
+![picture1](https://github.com/Putta-yejneswari/blog/assets/136833632/8feb4209-10dc-4453-a0fc-a028c9cbb863)
+
 
 Islands:
 
-picture 2
+
 
 Diving and Nature views:
 
