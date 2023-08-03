@@ -11,7 +11,7 @@ Home:
 
 Islands:
 
-
+![picture 2](https://github.com/Putta-yejneswari/blog/assets/136833632/6a415de3-6126-4cf4-8b4c-1ee9b9be63fb)
 
 Diving and Nature views:
 
